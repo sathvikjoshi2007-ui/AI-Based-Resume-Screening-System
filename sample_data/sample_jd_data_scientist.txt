@@ -1,0 +1,19 @@
+DATA SCIENTIST – Job Description
+
+We are hiring a Data Scientist to join our AI team.
+
+Required:
+- Python programming (pandas, numpy, scikit-learn)
+- Machine learning algorithms
+- Deep learning (TensorFlow or PyTorch)
+- SQL for data querying
+- Statistical analysis and visualization (matplotlib, seaborn)
+- Experience with NLP or Computer Vision
+
+Preferred:
+- MLOps experience
+- Cloud (GCP, AWS)
+- Tableau or Power BI
+
+Education: B.Tech/M.Tech Computer Science, Statistics, or Data Science
+Experience: 0-2 years (freshers with strong projects welcome)

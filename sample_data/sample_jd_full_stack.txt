@@ -1,0 +1,19 @@
+FULL STACK DEVELOPER – Job Description
+
+We are looking for a skilled Full Stack Developer with 1-2 years of experience.
+
+Required Skills:
+- Python, JavaScript, React.js, Node.js
+- Databases: SQL, MongoDB, PostgreSQL
+- REST API design and development
+- Docker, Git, CI/CD pipelines
+- Agile/Scrum methodology
+- Strong communication and teamwork
+
+Nice to Have:
+- AWS or Azure cloud experience
+- TypeScript
+- GraphQL
+
+Education: Bachelor's degree in Computer Science or related field
+Experience: 1-2 years (internships count)
